@@ -4,6 +4,7 @@ import './App.css'
 import Front from './Front'
 import Slider from './Slider'
 import Mid from './Mid'
+import Footer from './Footer'
 
 const App = () => {
   return (
@@ -12,6 +13,7 @@ const App = () => {
       <Front></Front>
       <Slider></Slider>
       <Mid></Mid>
+      <Footer></Footer>
     </div>
   )
 }
